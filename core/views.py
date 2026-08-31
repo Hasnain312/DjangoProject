@@ -17,3 +17,9 @@ def add(a, b):
 
 result = add(30, 40)
 print(result)
+
+
+def subtract(a, b):
+    return a - b
+
+print(subtract(80, 50))
